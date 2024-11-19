@@ -5,7 +5,7 @@
 This project is an MS Excel-based analysis of sales data for a coffee shop. The goal is to derive actionable insights to enhance performance and support business decisions. Using Excel, I cleaned, analyzed, and visualized the sales data to answer key business questions regarding revenue trends, customer behavior, and product performance. The analysis covers various aspects, such as sales by time, product popularity, and revenue across store locations.
 
 ## Screenshot of the Project
-![Coffee Shop Sales Project Screenshot](Coffee_shop_Sales_project.png)
+![Coffee_shop_Sales_project.png]
 
 ## Objectives
 
