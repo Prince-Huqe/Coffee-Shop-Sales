@@ -6,7 +6,7 @@ This project is an MS Excel-based analysis of sales data for a coffee shop. The 
 
 ## Screenshot of the Project
 
-![Coffee Shop Sales Project Screenshot](Coffee_shop_Sales_project.png)
+![Coffee Shop Sales Project Screenshot](Coffee_shop_Sales_project.PNG)
 
 ## Objectives
 
