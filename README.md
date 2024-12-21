@@ -73,7 +73,7 @@ The Excel file containing the analysis, along with interactive dashboards and ch
 
 
 
-## About Me
+## My Education
 
 **Education:**
 
@@ -85,38 +85,26 @@ The Excel file containing the analysis, along with interactive dashboards and ch
         Database Systems (Score: 88/100)
         Operations Management (Score: 89/100)
 
-2. **Information Technology Advanced Diploma (Software Development) - NIIT, India**
+2. **Information Technology (IT) 2 Year Advanced Diploma  - NIIT, India**
    - Completed a 2-year program with a focus on database development and software solutions.
+   - 
 
-3. **Data Analytics Professional Certificate by Google**
-4. **IT Support Professional Certificate by Google**
-5. **Power BI Data Analytics for All Levels (CodeBasics.io)**
-6. **Power BI: Complete Guide (Udemy.com)**
-7. **SQL Mastery Certificate (Code with Mosh)**
-8. **SQL Beginner to Advanced Certificate (CodeBasics.io)**
+3. **Hospitality Management 2 Year Advanced Diploma  - Melbourne, Australia**
+   - Completed a 2-year program with a focus on Hospitality and Management.
+   - 
+4. **Data Analytics Professional Certificate by Google**
+5. **IT Support Professional Certificate by Google**
+6. **Power BI Data Analytics for All Levels (CodeBasics.io)**
+7. **Power BI: Complete Guide (Udemy.com)**
+8. **SQL Mastery Certificate (Code with Mosh)**
+9. **SQL Beginner to Advanced Certificate (CodeBasics.io)**
 
-**Work Experience:**
 
-- **Junior Database Programmer (Softweb Bangladesh)**
-  - Duration: 1 year (2005 January - 2006 January)
-  - Assisted in managing database systems, software, and business reports to support data-driven decision-making.
-  - **User Interface Design**: Assisted in developing forms using Visual Basic.
-  - **Relational Database Systems**: Assisted in managing databases with SQL Server and MS Access for data management.
-  - **Reports Generation**: Supported in generating business reports using Seagate Crystal Reports.
-  - **Coding and Debugging**: Assisted in writing and debugging Visual Basic code.
-  - **Quality Assurance**: Assisted in quality checks to ensure reliability.
-
-My journey into data analysis has been driven by a passion for working with data and creating meaningful insights. 
-I recently developed hands-on skills with MS-EXCEL, Power BI, DAX functions, and data visualization through real-life projects,
-including the Coffee Shop Sales Analysis presented here. I am eager to apply these skills in an entry-level IT role and continue 
-my learning journey in the industry.
 
 
 ## Contact
 
 Looking forward to connecting and exploring data-driven insights together!
-
-Please feel free to reach out to me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/prince30307070)
 
 You can also contact me via email: Prince10103030@gmail.com
 
